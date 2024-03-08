@@ -83,11 +83,18 @@ const CAT_BANNER = "4,5,6";
  const DB_CHARSET = "charset=utf8";*/
 
 
-#Conexion
-const DB_HOST = "localhost";
-const DB_NAME = "empire";
-const DB_USER = "root";
-const DB_PASSWORD = "";
+#Conexion: Local
+// const DB_HOST = "localhost";
+// const DB_NAME = "empire";
+// const DB_USER = "root";
+// const DB_PASSWORD = "";
+// const DB_CHARSET = "utf8";
+
+#Conexion: Remota
+const DB_HOST = "http://app.cave-sa.com/";
+const DB_NAME = "u789588315_empire";
+const DB_USER = "u789588315_empire";
+const DB_PASSWORD = "Mz$5Yy/Lp+";
 const DB_CHARSET = "utf8";
 
  #Zona horaria
