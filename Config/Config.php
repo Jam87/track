@@ -11,10 +11,10 @@
  */
 
 /*----------  
-	Ruta o dominio del servidor  - Server path or domain
+	Ruta o dominio del servidor  - Server path or domain http://app.cave-sa.com/
 ----------*/
-const BASE_URL = "http://localhost/empire/";
-
+// const BASE_URL = "http://localhost/empire/";
+const BASE_URL = "http://app.cave-sa.com/";
 
 /*----------  
 	Nombre de la empresa o compañia -  Company or company name
